@@ -1,3 +1,4 @@
+![Uploading Block_diagram.png…]()
 ![RTL](https://github.com/nishit0072e/Enc_Dec_Xor/assets/65007263/091a41e0-50aa-4f63-ad2e-d38f079b16e7)
 ![Screenshot 2023-10-11 221430](https://github.com/nishit0072e/Enc_Dec_Xor/assets/65007263/782234d5-fb02-46ad-b883-7ffcf1bd304a)
 # Enc_Dec_Xor
