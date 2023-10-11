@@ -1,5 +1,6 @@
 Block Diagram: 👇
 ![Block_diagram](https://github.com/nishit0072e/Enc_Dec_Xor/assets/65007263/1187f515-12f6-4706-81c3-cf6944c90f50)
+
 RTL Design: 👇
 ![RTL](https://github.com/nishit0072e/Enc_Dec_Xor/assets/65007263/091a41e0-50aa-4f63-ad2e-d38f079b16e7)
 Simulation Waveform: 👇
